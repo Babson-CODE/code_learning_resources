@@ -1,15 +1,23 @@
 {
-  "dev": {
-    "awscloudformation": {
-      "AuthRoleName": "amplify-codelearningresource-dev-02930-authRole",
-      "UnauthRoleArn": "arn:aws:iam::129839941538:role/amplify-codelearningresource-dev-02930-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::129839941538:role/amplify-codelearningresource-dev-02930-authRole",
-      "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-codelearningresource-dev-02930-deployment",
-      "UnauthRoleName": "amplify-codelearningresource-dev-02930-unauthRole",
-      "StackName": "amplify-codelearningresource-dev-02930",
-      "StackId": "arn:aws:cloudformation:us-east-1:129839941538:stack/amplify-codelearningresource-dev-02930/b3bd73b0-0d38-11ec-b6b9-129177fe7919",
-      "AmplifyAppId": "d1mjfwqojmvbui"
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-codelearningresource-dev-02930-authRole",
+            "UnauthRoleArn": "arn:aws:iam::129839941538:role/amplify-codelearningresource-dev-02930-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::129839941538:role/amplify-codelearningresource-dev-02930-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-codelearningresource-dev-02930-deployment",
+            "UnauthRoleName": "amplify-codelearningresource-dev-02930-unauthRole",
+            "StackName": "amplify-codelearningresource-dev-02930",
+            "StackId": "arn:aws:cloudformation:us-east-1:129839941538:stack/amplify-codelearningresource-dev-02930/b3bd73b0-0d38-11ec-b6b9-129177fe7919",
+            "AmplifyAppId": "d1mjfwqojmvbui"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d1mjfwqojmvbui",
+                    "type": "manual"
+                }
+            }
+        }
     }
-  }
 }
