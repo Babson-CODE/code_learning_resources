@@ -1,0 +1,21 @@
+site_name: Babson CODE Learning Resources
+site_url: https://docs.babsoncode.dev/resources/learning
+nav:
+  Home: 'index.md'
+  'New Resident Guide':
+
+  'Programming Resources':
+    'Introduction':
+
+    'Python':
+
+    'Javascript':
+
+    'R':
+
+    'SQL':
+
+  'Development Resources':
+plugins:
+  -search
+
