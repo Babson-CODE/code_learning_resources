@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'Babson CODE Learning Resources',
   tagline: 'CODE Learning Resources',
-  url: 'https://babson-code.github.io',
+  url: 'https://dev.d1mjfwqojmvbui.amplifyapp.com/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
